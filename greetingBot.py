@@ -82,6 +82,4 @@ def main():
 
 
 if __name__ == "__main__":
-    # Continual loop - bot can be run indefinitely
-    while True:
         main()
